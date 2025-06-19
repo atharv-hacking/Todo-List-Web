@@ -159,11 +159,7 @@ const [isTodoEditable, setIsTodoEditable] = useState(false);
 
 ---
 
-## 📷 Screenshots
 
-
-
----
 
 ## 🚀 How to Run Locally
 
